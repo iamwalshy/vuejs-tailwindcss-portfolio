@@ -13,19 +13,15 @@ export default {
 			contacts: [
 				{
 					id: 1,
-					name: 'Your Address, Your City, Your Country',
+					name: 'Boston, MA USA',
 					icon: 'map-pin',
 				},
 				{
 					id: 2,
-					name: 'email@domain.com',
+					name: 'iamwalshy@protonmail.com',
 					icon: 'mail',
 				},
-				{
-					id: 3,
-					name: '555 8888 888',
-					icon: 'phone',
-				},
+
 			],
 		};
 	},
