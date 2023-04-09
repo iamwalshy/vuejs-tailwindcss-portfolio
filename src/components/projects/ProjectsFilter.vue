@@ -10,7 +10,7 @@ export default {
 			type: Array,
 			default: () => [
 				'Web Application',
-				'Mobile Application',
+				'Windows 10/11 Gaming Tweaks',
 				'UI/UX Design',
 				'Branding & Anim',
 			],
