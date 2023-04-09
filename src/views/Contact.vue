@@ -21,7 +21,11 @@ export default {
 					name: 'iamwalshy@protonmail.com',
 					icon: 'mail',
 				},
-
+				{
+					id: 3,
+					name: 'Walshy#6769',
+					icon: 'discord',
+				},
 			],
 		};
 	},
