@@ -2,7 +2,7 @@
 import feather from 'feather-icons';
 import ContactForm from '@/components/contact/ContactForm.vue';
 import ContactDetails from '@/components/contact/ContactDetails.vue';
-import { BiDiscord } from "oh-vue-icons/icons";
+
 export default {
 	components: {
 		ContactForm,
