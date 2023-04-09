@@ -82,7 +82,11 @@ export default {
 					{
 						id: 1,
 						details:
-							'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+							'William Walsh, also known as Walshe, is a self-taught full-stack developer with a passion for video games. With his dedication to continuously learning and staying up-to-date with the latest technologies, he has developed a wide range of skills and expertise in web development, including front-end and back-end development, database management, and more. His strong problem-solving skills and attention to detail make him a valuable asset to any team he works with.
+
+Walshe's love for video games and technology began at a young age and has continued to inspire him throughout his career. He is constantly seeking new and innovative ways to incorporate his passion into his work and projects. In his free time, he enjoys playing video games and tinkering with new technologies to explore their potential applications.
+
+Overall, William Walsh, or Walshe, is a driven and talented developer with a unique perspective and a passion for innovation. His commitment to excellence and his love for video games make him an asset to any team or project he works on.',
 					},
 					{
 						id: 2,
@@ -97,7 +101,11 @@ export default {
 					{
 						id: 4,
 						details:
-							'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+							'William Walsh, also known as Walshe, is a self-taught full-stack developer with a passion for video games. With his dedication to continuously learning and staying up-to-date with the latest technologies, he has developed a wide range of skills and expertise in web development, including front-end and back-end development, database management, and more. His strong problem-solving skills and attention to detail make him a valuable asset to any team he works with.
+
+Walshe's love for video games and technology began at a young age and has continued to inspire him throughout his career. He is constantly seeking new and innovative ways to incorporate his passion into his work and projects. In his free time, he enjoys playing video games and tinkering with new technologies to explore their potential applications.
+
+Overall, William Walsh, or Walshe, is a driven and talented developer with a unique perspective and a passion for innovation. His commitment to excellence and his love for video games make him an asset to any team or project he works on.',
 					},
 				],
 				socialSharingsHeading: 'Share This',
