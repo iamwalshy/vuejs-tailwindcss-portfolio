@@ -24,7 +24,7 @@ export default {
 				{
 					id: 3,
 					name: 'Walshy#6769',
-					icon: 'discord',
+					icon: 'BiDiscord',
 				},
 			],
 		};
